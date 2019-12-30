@@ -767,7 +767,7 @@
             "dist": {
                 "type": "path",
                 "url": "../multiple-tokens-auth",
-                "reference": "6b0bd240581538351470ae34d77c35e9bd479ef2",
+                "reference": "28e77154edea98f9db0b7f1f3ce81257805c59f8",
                 "shasum": null
             },
             "require": {
